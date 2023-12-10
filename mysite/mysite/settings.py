@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-TIME_ZONE = 'America/Phoenix'
+TIME_ZONE = "America/Phoenix"
 
 # Application definition
 
